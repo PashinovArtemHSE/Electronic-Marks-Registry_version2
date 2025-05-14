@@ -3,7 +3,7 @@
 ## Загрузка и запуск программы
 ```
 Клонируем репозиторий
-git clone https://github.com/PashinovArtemHSE/Electronic-Marks-Registry.git
+git clone https://github.com/PashinovArtemHSE/Electronic-Marks-Registry_version2.git
 
 Переходим папку
 cd Electronic-Marks-Registry
