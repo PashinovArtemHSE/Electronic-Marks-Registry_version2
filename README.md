@@ -11,3 +11,4 @@ cd Electronic-Marks-Registry
 Запускаем программу
 "Электронный журнал.exe" (обязательно в кавычках)
 ```
+![image](https://github.com/user-attachments/assets/b74d822e-b0b4-40cb-8779-78bddec3909b)
