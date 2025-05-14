@@ -6,7 +6,7 @@
 git clone https://github.com/PashinovArtemHSE/Electronic-Marks-Registry_version2.git
 
 Переходим папку
-cd Electronic-Marks-Registry
+cd Electronic-Marks-Registry_version2
 
 Запускаем программу
 "Электронный журнал.exe" (обязательно в кавычках)
